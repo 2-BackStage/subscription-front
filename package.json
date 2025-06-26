@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "@tosspayments/payment-sdk": "^1.9.1",
+    "next": "^15.3.3",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "uuid": "^11.1.0",
+    "uuid4": "^2.0.3"
+  },
+  "devDependencies": {
+    "@types/node": "24.0.0",
+    "@types/react": "^19.1.7",
+    "@types/react-dom": "^19.1.6",
+    "@types/uuid": "^10.0.0",
+    "typescript": "^5.8.3"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  }
+}
