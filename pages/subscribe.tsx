@@ -12,7 +12,7 @@ function generateRandomCustomerKey(): string {
 export default function SubscribePage() {
   const handlePayment = async () => {
     const userUuid = '7e7742d7-d2f9-42be-b889-6fb0f41b9276';
-    const buskerUuid = 'af0560d2-48ec-42e4-8b88-9be3c91d6814';
+    const buskerUuid = 'af0420d4-23ec-52e2-o152-6be5c90d2913';
     const price = 6900;
     const customerKey = generateRandomCustomerKey();
 
